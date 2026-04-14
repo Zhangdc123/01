@@ -1,6 +1,6 @@
 足球跟踪
 使用计算机视觉和机器学习跟踪球员,并确定所属球队,以及计算足球位置,使用计算机来分析比赛状态
-![alt text](football-chn.png)
+![alt text](image/football-chn.png)
 
 球场检测与关键点 (Pitch/Court Detection)： 识别足球场或篮球场的边界和关键点（如点球点、中圈）。这是进行“小地图平移”和“距离测量”的基础。
 
