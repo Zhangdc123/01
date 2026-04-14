@@ -11,6 +11,7 @@
 球队聚类 (Team Clustering)： 能够根据球员球衣的颜色自动将球员分成两组（主队和客队）。
 
 原始视频
+
 <video src="./video/573e61_0.mp4" width="100%" controls></video>
 
 roboflow/sports 是 Roboflow 官方专门为体育分析开发的工具包
@@ -40,6 +41,7 @@ roboflow/sports 是 Roboflow 官方专门为体育分析开发的工具包
 ![alt text](image/footandball原理.png)
 
 对球员 球 裁判进行检测
+
 <video src="./video/final_standard.mp4" width="100%" controls></video>
 
 赋予目标“身份” (ID)
