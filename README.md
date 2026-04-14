@@ -13,6 +13,7 @@
 原始视频
 
 <video src="./video/573e61_0.mp4" width="100%" controls></video>
+https://github.com/Zhangdc123/01/raw/main/video/573e61_0.mp4
 
 roboflow/sports 是 Roboflow 官方专门为体育分析开发的工具包
 
